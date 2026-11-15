@@ -138,6 +138,18 @@ By using FinBERT to analyse financial sentiment and Logistic Regression to predi
 
 Our initial results were promising, achieving a maximum reported accuracy of approximately 62%. However, I recognise that financial markets are influenced by many interconnected factors and that sentiment analysis has limitations when interpreting complex or mixed headlines.
 
+## Project Progress
+
+| Component | Status |
+|:---|:---:|
+| Problem Definition | Completed |
+| Application Development | Completed |
+| Model Selection & Rationale | Completed |
+| Data Preparation | Completed |
+| Model Training | Not Fully Completed |
+| Test Accuracy & Validation | Pending |
+
+
 With more time, I would focus on improving sentiment classification, introducing additional features and investigating the reliability of our model through further testing and regularisation.
 
 Overall, SENTRIMIX demonstrates the potential of AI to identify relationships between current affairs and financial markets, while highlighting the challenges involved in making reliable predictions in a complex and constantly changing environment. Through analysis of corporate/business and geopolitical headlines, it appeared that corporate/business headlines had a more significant model prediction.
