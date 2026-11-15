@@ -140,7 +140,7 @@ Our initial results were promising, achieving a maximum reported accuracy of app
 
 With more time, we would focus on improving sentiment classification, introducing additional features and investigating the reliability of our model through further testing and regularisation.
 
-Overall, SENTRIMIX demonstrates the potential of AI to identify relationships between current affairs and financial markets, while highlighting the challenges involved in making reliable predictions in a complex and constantly changing environment.
+Overall, SENTRIMIX demonstrates the potential of AI to identify relationships between current affairs and financial markets, while highlighting the challenges involved in making reliable predictions in a complex and constantly changing environment. Through analysis of corporate/business and geopolitical headlines, it appeared that corporate/business headlines had a more significant model prediction.
 
 ## 7. Further Materials (Please Read - provides useful background)
 Geopolitics: https://drive.google.com/file/d/1GbHoaWfc4MxudXzqsQsR1YjXvODgaK9f/view?usp=sharing
