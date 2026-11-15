@@ -4,7 +4,7 @@
 
 ## 1. The Problem
 
-The aim of our project was to investigate whether current-affairs news headlines, including geopolitical events, international relations and corporate developments, could be used to identify patterns in stock-market movements.
+The aim of my project was to investigate whether current-affairs news headlines, including geopolitical events, international relations and corporate developments, could be used to identify patterns in stock-market movements.
 
 News can influence investor confidence and market behaviour. However, understanding how different headlines relate to financial markets can be difficult, particularly when large amounts of information need to be analysed.
 
