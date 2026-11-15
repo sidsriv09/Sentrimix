@@ -30,13 +30,13 @@ We used the Kaggle dataset *Daily News for Stock Market Prediction*, created by 
 
 We selected FinBERT, developed by ProsusAI, because it is specifically designed for financial language. General sentiment analysis models may struggle to understand financial terminology, where words can have different meanings depending on their context.
 
-FinBERT classifies each headline as positive, negative or neutral. These classifications are converted into numerical sentiment scores, which can then be used as inputs for our predictive model.
+FinBERT classifies each headline as positive, negative or neutral. These classifications are converted into numerical sentiment scores, which can then be used as inputs for our predictive model. I observed thie output of this analysis as a CSV file, which can be seen in the repository and the PowerPoint.
 
 ### Aggregating the Data
 
 After analysing the individual headlines, we export the results into a CSV file. We then combine the sentiment information by day to create a daily representation of the overall news sentiment.
 
-This allows the predictive model to consider the general sentiment of the day's headlines rather than treating every headline as an entirely separate market event.
+This allows the predictive model to consider the general sentiment of the day's headlines rather than treating every headline as an entirely separate market event. The result of this can also be seen in the repository and the PowerPoint.
 
 ### Choosing Logistic Regression
 
@@ -142,7 +142,12 @@ With more time, we would focus on improving sentiment classification, introducin
 
 Overall, SENTRIMIX demonstrates the potential of AI to identify relationships between current affairs and financial markets, while highlighting the challenges involved in making reliable predictions in a complex and constantly changing environment.
 
-## 7. Sources
+## 7. Further Materials (Please Read - provides useful background)
+Geopolitics: https://drive.google.com/file/d/1GbHoaWfc4MxudXzqsQsR1YjXvODgaK9f/view?usp=sharing
+Corporate/Business: https://drive.google.com/file/d/1zFd2_rcoLWnbobtnftzZA3on4d_ZJLg9/view?usp=drive_link
+PowerPoint: 
+
+## 8. Sources
 
 - Sun, J. (2016). *Daily News for Stock Market Prediction*. Kaggle: https://www.kaggle.com/datasets/aaron7sun/stocknews
 - ProsusAI. *FinBERT*: https://huggingface.co/ProsusAI/finbert
