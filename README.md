@@ -10,7 +10,7 @@ News can influence investor confidence and market behaviour. However, understand
 
 I wanted to explore whether artificial intelligence and machine learning could analyse the sentiment of news headlines and use this information to predict the direction of the Dow Jones Industrial Average (DJIA).
 
-## 2. What We Built
+## 2. What I Built
 
 I developed **SENTRIMIX**, a system that allows users to input multiple news headlines and analyse their potential relationship with stock-market movements.
 
@@ -42,7 +42,7 @@ This allows the predictive model to consider the general sentiment of the day's 
 
 I chose Logistic Regression because our objective was to predict the direction of the stock market, making this a classification problem.
 
-Logistic Regression estimates the probability of an outcome belonging to a particular class. This was useful for my project because we wanted to provide probabilities alongside predictions, rather than simply producing an answer without indicating the model's level of certainty.
+Logistic Regression estimates the probability of an outcome belonging to a particular class. This was useful for my project because I wanted to provide probabilities alongside predictions, rather than simply producing an answer without indicating the model's level of certainty.
 
 Another advantage is that Logistic Regression is relatively straightforward to interpret. It allowed me to investigate how changes in our sentiment features relate to the probability of an upward or downward market movement.
 
@@ -84,7 +84,7 @@ This would help me establish whether another model could better understand finan
 
 ### 5.2 Introduce More Features Through Feature Engineering
 
-We would explore adding more features to our dataset to give the predictive model a broader understanding of the factors that could influence market movements.
+I would explore adding more features to our dataset to give the predictive model a broader understanding of the factors that could influence market movements.
 
 For example, I could introduce separate indicators for different types of news, such as:
 - Geopolitical conflicts and international relations.
