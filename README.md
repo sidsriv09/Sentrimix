@@ -145,7 +145,7 @@ Overall, SENTRIMIX demonstrates the potential of AI to identify relationships be
 ## 7. Further Materials (Please Read - provides useful background)
 Geopolitics: https://drive.google.com/file/d/1GbHoaWfc4MxudXzqsQsR1YjXvODgaK9f/view?usp=sharing
 Corporate/Business: https://drive.google.com/file/d/1zFd2_rcoLWnbobtnftzZA3on4d_ZJLg9/view?usp=drive_link
-PowerPoint: 
+The PowerPoint is included submission - please read, it gives a good summary of the project's development.
 
 ## 8. Sources
 
